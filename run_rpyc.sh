@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 'which rpyc_classic.py'
+python3 `which rpyc_classic.py`
